@@ -86,7 +86,17 @@ Writing SQL queries to analyze the Dataset and answer the following questions:
 
 
 
-6. How many Books has lowest Rating ?
+
+
+
+
+
+
+
+
+
+
+6. Which book is least preferred by the readers? (Lowest Rating)
 
 
 
@@ -106,16 +116,6 @@ Writing SQL queries to analyze the Dataset and answer the following questions:
 
 
 
-2What are the most popular books in each city?
-
-Which is the most bought book?
-
-
-
-
-
-
-Which book is least preferred by the readers?
 
 
 
