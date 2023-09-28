@@ -40,7 +40,11 @@ Writing SQL queries to analyze the Dataset and answer the following questions:
 
 
 
-3. Most preferred book by the Readers ? 
+3. Most preferred book by the Readers ?
+
+
+
+
 
 <img width="350" alt="image" src="https://github.com/PayalGarg1201/Bookstore-Analysis-using-SQL/assets/133757186/f3d61de8-c782-4a40-ba2b-1277bcd77094">
 
@@ -68,6 +72,9 @@ Writing SQL queries to analyze the Dataset and answer the following questions:
 
 
 
+
+
+
 <img width="339" alt="image" src="https://github.com/PayalGarg1201/Bookstore-Analysis-using-SQL/assets/133757186/32fd31e1-7bda-429d-bad2-50ac9ddbdff2">
 
 
@@ -80,6 +87,8 @@ Writing SQL queries to analyze the Dataset and answer the following questions:
 
 
 5. Book which has 2nd Highest price
+
+
 
 <img width="301" alt="image" src="https://github.com/PayalGarg1201/Bookstore-Analysis-using-SQL/assets/133757186/c3a313c9-32ef-4e57-9214-91057b29e869">
 
@@ -97,6 +106,8 @@ Writing SQL queries to analyze the Dataset and answer the following questions:
 
 
 6. Which book is least preferred by the readers? (Lowest Rating)
+
+
 
 
 
