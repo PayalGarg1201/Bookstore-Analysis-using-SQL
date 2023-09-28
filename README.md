@@ -57,12 +57,38 @@ Writing SQL queries to analyze the Dataset and answer the following questions:
 
 
 
+
+
+
+
+
+
 4. Total how books has highest rating ?
 
 
 
 
 <img width="339" alt="image" src="https://github.com/PayalGarg1201/Bookstore-Analysis-using-SQL/assets/133757186/32fd31e1-7bda-429d-bad2-50ac9ddbdff2">
+
+
+
+
+
+
+
+
+
+
+5. Book which has 2nd Highest price
+
+<img width="301" alt="image" src="https://github.com/PayalGarg1201/Bookstore-Analysis-using-SQL/assets/133757186/c3a313c9-32ef-4e57-9214-91057b29e869">
+
+
+
+
+6. How many Books has lowest Rating ?
+
+
 
 
 
