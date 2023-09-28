@@ -51,6 +51,11 @@ Writing SQL queries to analyze the Dataset and answer the following questions:
 
 Which is the most bought book?
 
+
+
+
+
+
 Which book is least preferred by the readers?
 
 
