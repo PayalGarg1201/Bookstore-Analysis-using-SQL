@@ -112,6 +112,23 @@ Writing SQL queries to analyze the Dataset and answer the following questions:
 
 
 
+<img width="478" alt="image" src="https://github.com/PayalGarg1201/Bookstore-Analysis-using-SQL/assets/133757186/d4d219a2-a0d8-4d84-81c4-9731f0cfa607">
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Total how many books have lowest Rating ?
+
+   
 
 
 
