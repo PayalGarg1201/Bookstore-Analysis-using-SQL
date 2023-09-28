@@ -124,6 +124,10 @@ Writing SQL queries to analyze the Dataset and answer the following questions:
 
 
 
+<img width="309" alt="image" src="https://github.com/PayalGarg1201/Bookstore-Analysis-using-SQL/assets/133757186/424cf21e-8b1a-4c52-a5a6-c6968a0dbfa8">
+
+
+
 
 
 
